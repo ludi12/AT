@@ -1,0 +1,13 @@
+
+# 测试用例配置
+
+# 学生管理相关的测试用例
+'StudentManage':
+  'StudentManage': true
+  'test1_add_student': true
+  'test2_del_student': false
+
+'TeacherManage':
+  'TeacherManage': true
+  'test1_add_teacher': false
+  'test2_del_teacher': true

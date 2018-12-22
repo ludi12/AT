@@ -1,0 +1,19 @@
+
+
+# student_testcase.py的测试数据
+
+'test1_add_student':
+  'login_username': 'admin'
+  'login_password': 'admin'
+  'login_verify_text': '社区'
+  'username': "15812345678"
+  'nickname': "Jerry"
+  'password': "123456"
+  'sex': '男'
+  'roll': "大众会员"
+  'tx_path': 'resource/123.jpg'
+  'email': 'Jerry@qq.com'
+  'phone': '15812345678'
+
+'test2_del_student':
+  null
